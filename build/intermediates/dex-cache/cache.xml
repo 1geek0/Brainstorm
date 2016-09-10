@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/geek/AndroidStudioProjects/Brainstorm/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ef2007fa74f73ba47854097aa753e8561722b2d2">
+        <dex dex="/home/geek/AndroidStudioProjects/Brainstorm/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b4d7f4d8eb81e239287573b04e5699437105c088/classes.dex" />
+    </item>
+
+</items>

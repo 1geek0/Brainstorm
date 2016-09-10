@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "877681614649",
+    "firebase_url": "https://brainstorm-c2e5c.firebaseio.com",
+    "project_id": "brainstorm-c2e5c",
+    "storage_bucket": "brainstorm-c2e5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877681614649:android:964c2d621513dbae",
+        "android_client_info": {
+          "package_name": "com.g1ee0k.brainstorm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877681614649-uek4j5kr959oc4h7vu5h5bru00g77jb9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.g1ee0k.brainstorm",
+            "certificate_hash": "655937C28E7F6F4E527D9929A070CD77E31CF263"
+          }
+        },
+        {
+          "client_id": "877681614649-fjtv3n5ophhfv1n3cclbdv76s4fog5nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkAI73sFf8m7FmXFTdj6S9FZ3A3F0Pbd0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877681614649-fjtv3n5ophhfv1n3cclbdv76s4fog5nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

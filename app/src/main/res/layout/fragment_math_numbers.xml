@@ -1,0 +1,144 @@
+<android.support.v7.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.g1ee0k.brainstorm.mathNumbers">
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+
+        android:columnCount="3">
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/one"
+            android:text="@string/_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:textAllCaps="false" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/two"
+            android:text="@string/_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:textAllCaps="false" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/three"
+            android:text="@string/_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:textAllCaps="false" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/four"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:text="@string/_4"
+            android:textAllCaps="false" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/five"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:text="@string/_5"
+            android:textAllCaps="false" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/six"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:text="@string/_6"
+            android:textAllCaps="false" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/seven"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:text="@string/_7"
+            android:textAllCaps="false" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/eight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:text="@string/_8"
+            android:textAllCaps="false" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/nine"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:text="@string/_9"
+            android:textAllCaps="false" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/paranthesesOn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:text="@string/paranthesesO"
+            android:textAllCaps="false" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/zero"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:text="@string/_0"
+            android:textAllCaps="false" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/paranthesesCn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:text="@string/paranthesesC"
+            android:textAllCaps="false" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/plusn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:text="@string/plus"
+            android:textAllCaps="false" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/minusn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:text="@string/minus"
+            android:textAllCaps="false" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/multiplyn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:text="@string/multiply"
+            android:textAllCaps="false" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/dividen"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_column="1"
+            android:text="@string/divide"
+            android:textAllCaps="false" />
+    </GridLayout>
+
+</android.support.v7.widget.LinearLayoutCompat>
